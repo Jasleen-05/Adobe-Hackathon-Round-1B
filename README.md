@@ -103,6 +103,14 @@ docker run --rm \
 
 ---
 
+## 👨‍💻 Author
+Jasleen Kaur Matharoo   
+📧 jasleenkaur11rps@gmail.com   
+Arhasi Soni   
+📧 arhasisoni@gmail.com
+
+---
+
 ## 📝 License
 
 MIT License
