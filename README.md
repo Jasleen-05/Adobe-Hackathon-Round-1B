@@ -14,6 +14,9 @@ Round 1B/
 │   │   └── \*.pdf
 │   ├── output/
 │   │   └── analysis.json
+│   ├──  src/
+│   │   └──analyzer.py
+│   │   └── utils.py
 │   ├── input.json
 │   ├── Dockerfile
 │   └── requirements.txt
@@ -21,9 +24,6 @@ Round 1B/
 │   └── ...
 ├── Collection3/
 │   └── ...
-└── src/
-├── analyzer.py
-└── utils.py
 
 ````
 
