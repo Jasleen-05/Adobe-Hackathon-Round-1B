@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-26T14:02:53.749456"
+  },
+  "extracted_sections": [
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "Professional Tip: Clear Instructions",
+      "importance_rank": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "• Customize Your Message",
+      "importance_rank": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 8,
+      "section_title": "Block Download Of External Content",
+      "importance_rank": 3
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 16,
+      "section_title": "Rely On System Fonts Only; Do Not Use Document Fonts",
+      "importance_rank": 4
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 29,
+      "section_title": "• (Visio 2010) Choose Acrobat > Preferences",
+      "importance_rank": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Ensure your email instructions are clear and concise to avoid any confusion for your recipients. Sharing Checklist for Real Estate Professionals In the real estate industry, sharing documents efficiently is crucial for closing deals and keeping clients informed. Here's a tailored checklist to help you manage your PDF sharing needs.",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "• Have you added a personal touch to the subject and message • Create and Share the Link • Did you generate a shareable link and copy it for distribution? • Send the Invitation",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "When selected, prevents the downloading of any external Internet content, such as images, CSS, and JavaScript. Specifies page properties, like the properties found in the Print dialog box: page dimensions, orientation, and margins. Show This Number Of Recent Archives (Outlook only) When converting email messages and folders, the Adobe PDF > [Convert Selected Messages and Convert Selected Folders] menus can list recently created PDFs to append. This option specifies the maximum number of PDFs to list in the menus. Show “Attach As Adobe PDF” Buttons If selected, the Attach As Adobe PDF button appears in the Outlook email message window. AutoCAD-specific options on the Settings tab (Acrobat Pro) The following options appear when you open the PDFMaker settings from within Autodesk AutoCAD. Specify the PDF/A or PDF/E compliance standard, or none.",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Deselect this option to download fonts when creating the PDF. All your fonts will be available in the PDF, but it will take longer to create it. Leave this option selected if you are working with Asian-language documents.",
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "2. If you want to convert each page in the Visio file to a bookmarked page in the PDF file, choose Adobe PDF > Convert All Pages In Drawing. If this option is deselected, only the current page is converted. 3. Do one of the following: • (Visio 2010) Choose Acrobat > Create PDF. • (Visio 2010) Choose Acrobat > Convert To Adobe PDF. • (Visio 2010) Choose Acrobat > Create and Attach To Email. The PDF file attaches to a new email message in your default email application. • (Visio 2010) Choose Acrobat > Create and Send For Review. The file converts to an Adobe PDF file, and an email-based review process begins. 4. If you want to include the custom properties of shapes, select that option. 6. Select a layers option to retain or flatten layers in the resulting PDF, and",
+      "page_number": 29
+    }
+  ]
+}

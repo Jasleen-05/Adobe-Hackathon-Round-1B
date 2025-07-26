@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-26T14:01:56.438504"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 9,
+      "section_title": "Toulouse: The Pink City",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 12,
+      "section_title": "Arles: A Roman Treasure",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 13,
+      "section_title": "Carcassonne: A Medieval Fortress",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "Must-Visit Restaurants",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "Culinary Experiences",
+      "importance_rank": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Toulouse, known as \"La Ville Rose\" (The Pink City) due to its distinctive terracotta buildings, is a vibrant city with a rich history. It was an important center during the Roman period and later became a hub of the aerospace industry. Toulouse has been a center of learning and culture for centuries, with a prestigious university and numerous research institutions. • Basilica of Saint-Sernin: This Romanesque basilica, built between the 11th and 13th centuries, is a UNESCO World Heritage site. It is one of the largest and best-preserved Romanesque churches in Europe. • Capitole de Toulouse: The city's town hall and theater, the Capitole, is an impressive building with a neoclassical facade. It has been the seat of municipal power since the 12th century. • Jacobins Convent: This Gothic convent, founded in the 13th century, is known for its beautiful cloister and the relics of Saint Thomas Aquinas. • Cité de l'Espace: This space-themed science museum features interactive exhibits, a planetarium, and a replica of the Mir space station. It's an engaging and educational experience for visitors of all ages. • Airbus Factory Tours: Visit the Airbus factory for a fascinating tour of one of the world's leading aircraft manufacturers. • Aeroscopia Museum: Explore the history of aviation at the Aeroscopia Museum, which features a collection of historic aircraft. Toulouse is renowned for its vibrant cultural scene, with numerous theaters, music venues, and festivals. The city hosts the Toulouse International Art Festival, which features contemporary art exhibitions and performances. Toulouse's cuisine is also notable, with local specialties such as cassoulet (a hearty bean and meat stew) and foie gras being popular dishes.",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Arles, located on the banks of the Rhône River, is renowned for its Roman and Romanesque monuments. The city was an important Roman settlement and later became a center of Christian pilgrimage. Arles has a rich artistic heritage, having inspired artists such as Vincent van Gogh and Pablo Picasso. • Arles Amphitheatre: This Roman amphitheater, built in the 1st century AD, is still used for events such as bullfights and concerts. It is one of the best-preserved Roman structures in France. • Church of St. Trophime: This Romanesque church, built in the 12th century, is known for its stunning portal and cloister. It was an important stop on the pilgrimage route to Santiago de Compostela. • Alyscamps: This ancient Roman necropolis, located just outside the city walls, was a major burial site in antiquity. It features a long avenue lined with sarcophagi. • Thermes de Constantin: These Roman baths, built in the 4th century AD, are a testament to the city's importance during the Roman period. • Vincent van Gogh: Include a section on Vincent van Gogh's time in Arles and the locations that inspired his paintings. • Photography: Recommend visiting during the Rencontres d'Arles photography festival for a unique cultural experience. Arles is known for its vibrant arts scene, with numerous galleries, theaters, and festivals. The city hosts the Rencontres d'Arles, an international photography festival that attracts artists and photographers from around the world. Arles' cuisine is also notable, with local specialties such as bull meat stew and wines from the surrounding vineyards.",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Carcassonne is a fortified city in the Languedoc region, known for its well-preserved medieval architecture. The city's history dates back to the Roman period, but it is best known for its role in the medieval period as a stronghold during the Albigensian Crusade. Carcassonne's double-walled fortifications and 52 towers make it one of the most impressive examples of medieval architecture in Europe. • Cité de Carcassonne: This medieval fortress is a UNESCO World Heritage site and one of the most impressive examples of medieval architecture in Europe. It features double walls, 52 towers, and a castle. • Basilica of Saints Nazarius and Celsus: This Gothic-Romanesque basilica, located within the fortress, dates back to the 11th century. It is known for its beautiful stained glass windows. • Château Comtal: This castle, located within the Cité, oﬀers guided tours that provide insight into the history and architecture of Carcassonne. • Pont Vieux: This 14th-century bridge connects the medieval Cité with the lower town. It oﬀers stunning views of the fortress and the surrounding countryside. • Reenactments: Provide insights into medieval life in Carcassonne, including reenactments and historical tours. • Surrounding Area: Suggest exploring the surrounding Languedoc region, known for its vineyards and picturesque villages. Carcassonne is known for its vibrant cultural scene, with numerous festivals and events throughout the year. The city hosts the Festival de Carcassonne, which features music, theater, and dance performances in various historic venues. Carcassonne's cuisine is also notable, with local specialties such as cassoulet (a hearty bean and meat stew) and wines from the surrounding vineyards.",
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "To truly experience the culinary delights of the South of France, here are some restaurants you should consider visiting: • Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering exquisite seafood dishes and stunning views of the Mediterranean. Chef Gérald Passedat is known for his innovative approach to seafood, creating dishes that are both visually stunning and incredibly flavorful. The restaurant's location on the cliﬀs overlooking the sea adds to the overall dining experience. • La Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred restaurant serves refined Provençal cuisine with breathtaking views of the French Riviera. The restaurant's terrace oﬀers panoramic views of the Mediterranean, making it the perfect spot for a romantic dinner. The menu features dishes that highlight the region's fresh, seasonal ingredients. • Le Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur oﬀers a unique dining experience with a focus on fresh, local ingredients and innovative dishes. Chef Mauro Colagreco's cuisine is inspired by the surrounding landscape, with many ingredients sourced from the restaurant's own gardens. The menu changes with the seasons, ensuring that each visit is a new and exciting experience. • Chez Pipo (Nice): A local favorite for Socca, this casual eatery is perfect for a quick and delicious snack. Chez Pipo has been serving Socca since 1923 and is a beloved institution in Nice. The restaurant's simple, no-frills approach allows the quality of the Socca to shine through. • L'Atelier de Jean-Luc Rabanel (Arles): A Michelin-starred restaurant known for its creative and contemporary take on Provençal cuisine. Chef Jean-Luc Rabanel's dishes are a feast for the senses, combining bold flavors with artistic presentation. The restaurant's tasting menu oﬀers a journey through the flavors of Provence, with each course showcasing the region's finest ingredients. • La Table de Plaisance (Saint-Émilion): A two-Michelin-starred restaurant oﬀering a sophisticated menu that highlights the flavors of the region. The restaurant is located in a historic building in the heart of Saint-Émilion, a town known for its world-class wines. The menu features dishes that pair beautifully with the local wines, creating a truly memorable dining experience.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "In addition to dining at top restaurants, there are several culinary experiences you should consider: • Cooking Classes: Many towns and cities in the South of France oﬀer cooking classes where you can learn to prepare traditional dishes like bouillabaisse, ratatouille, and tarte tropézienne. These classes are a great way to immerse yourself in the local culture and gain hands-on experience with regional recipes. Some classes even include a visit to a local market to shop for fresh ingredients. • Food Markets: Visit local markets such as the Cours Saleya Market in Nice or the Marché Forville in Cannes to sample fresh produce, cheeses, and charcuterie. These markets are a feast for the senses, with stalls overflowing with colorful fruits and vegetables, fragrant herbs, and artisanal products. Take the time to chat with the vendors and learn about the local specialties. • Wine Tours: The South of France is renowned for its wine regions, including Provence and Languedoc. Take a wine tour to visit vineyards, taste local wines, and learn about the winemaking process. Many wineries oﬀer guided tours and tastings, giving you the opportunity to sample a variety of wines and discover new favorites. Don't miss the chance to try rosé from Provence, which is famous for its light, refreshing flavor. • Olive Oil Tasting: The region is famous for its olive oil. Visit an olive grove to learn about olive oil production and enjoy a tasting session. You'll have the chance to sample diﬀerent varieties of olive oil and learn about the nuances of flavor and aroma. Many olive groves also produce other products like tapenade and olive soap, which make great souvenirs. • Truﬄe Hunting: The South of France is known for its truﬄes, particularly the black truﬄes from the Périgord region. Join a truﬄe hunting tour to experience the thrill of searching for these prized fungi. You'll be accompanied by a trained truﬄe dog and a knowledgeable guide who will teach you about the truﬄe's history and culinary uses. After the hunt, enjoy a truﬄe-themed meal featuring your freshly harvested finds. • Farm-to-Table Dining: Many restaurants in the South of France embrace the farm-to- table philosophy, sourcing their ingredients from local farms and producers. Look for restaurants that highlight seasonal, locally grown produce and sustainably raised meats. Dining at a farm-to-table restaurant is a wonderful way to support local agriculture and enjoy the freshest ingredients available.",
+      "page_number": 6
+    }
+  ]
+}

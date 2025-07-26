@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-26T14:04:02.870744"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 9,
+      "section_title": "Bratkartoffeln (Fried Potatoes)",
+      "importance_rank": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 11,
+      "section_title": "Ca Tim Nuong (Grilled Eggplant)",
+      "importance_rank": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 14,
+      "section_title": "Green Bean Casserole",
+      "importance_rank": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 15,
+      "section_title": "Gurkensalat (Cucumber Salad)",
+      "importance_rank": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 4,
+      "section_title": "Käsespätzle (Cheese Noodles)",
+      "importance_rank": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o 4 potatoes o 1 small onion o 1/4 cup bacon o 2 tablespoons butter o 1 teaspoon salt o 1/2 teaspoon pepper o Boil potatoes until tender, then slice. o Cook diced bacon until crispy, then remove and set aside. o Sauté sliced potatoes and diced onion in butter until golden. o Stir in bacon, salt, and pepper. o Serve warm. o 2 potatoes o 2 zucchinis o 2 eggplants o 2 tomatoes o 1 small onion o 4 cloves garlic o 1/4 cup olive oil o 1 teaspoon oregano o 1 teaspoon salt o 1/2 teaspoon pepper o Preheat oven to 375°F (190°C). o Slice potatoes, zucchinis, eggplants, and tomatoes. o Sauté diced onion and minced garlic in olive oil until softened. o Layer vegetables in a baking dish, seasoning with oregano, salt, and pepper. o Pour sautéed onion and garlic over the top. o Bake for 45 minutes until vegetables are tender. o Serve warm. o 1/2 pound ground beef",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o 2 eggplants o 2 cloves garlic o 2 tablespoons fish sauce o 1 tablespoon lime juice o 1 tablespoon sugar o 1/4 cup cilantro o Grill eggplants until charred and tender. o Peel and slice eggplants. o Mix minced garlic, fish sauce, lime juice, and sugar in a bowl. o Toss eggplants with the dressing. o Garnish with chopped cilantro and serve. o 1 pound callaloo leaves o 1 small onion o 2 cloves garlic o 1/4 cup coconut milk o 1 teaspoon thyme o 1 teaspoon salt o 1/2 teaspoon pepper o Sauté diced onion and minced garlic until softened. o Add callaloo leaves and cook until wilted. o Stir in coconut milk, thyme, salt, and pepper. o Simmer for 10 minutes. o Serve warm. o 4 cups fish stock o 1/2 pound fish fillets o 1 cup pineapple o 1 cup tomatoes o 1 cup bean sprouts o 2 stalks lemongrass",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o 4 cups green beans o 1 can cream of mushroom soup o 1/2 cup milk o 1 cup fried onions o 1 teaspoon salt o 1/2 teaspoon pepper o Preheat oven to 350°F (175°C). o Cook green beans until tender. o Mix soup, milk, salt, and pepper in a baking dish. o Add green beans and half of the fried onions, stir to combine. o Bake for 25 minutes. o Top with remaining fried onions and bake for an additional 5 minutes. o Serve warm. o 3 avocados o 1 lime",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o 2 cucumbers o 1/4 cup sour cream o 2 tablespoons vinegar o 1 tablespoon sugar o 1 teaspoon dill o 1 teaspoon salt o Slice cucumbers thinly. o Mix sour cream, vinegar, sugar, dill, and salt in a bowl. o Toss cucumbers with the dressing. o Serve chilled. o 4 eggs o 1 cup water o 1/4 cup green onions o 1 teaspoon salt o 1/2 teaspoon sesame oil o Beat eggs with water, salt, and chopped green onions. o Pour mixture into a heatproof bowl. o Steam for 10-15 minutes until set. o Drizzle with sesame oil and serve warm. o 1 cup lentils o 1/2 cup chickpeas o 1 small onion",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o 2 cups flour o 1/2 cup milk o 3 eggs o 1 teaspoon salt o 1/4 teaspoon nutmeg o 1/4 cup butter o 1 cup grated cheese o 1 small onion o Mix flour, milk, beaten eggs, salt, and nutmeg to form a batter. o Press batter through a spaetzle maker or colander into boiling water. o Cook until spaetzle floats to the surface, then drain. o Sauté sliced onion in butter until golden. o Layer spaetzle and grated cheese in a baking dish, top with sautéed onion. o Bake at 350°F (175°C) for 15 minutes until cheese is melted. o Serve warm.",
+      "page_number": 4
+    }
+  ]
+}
